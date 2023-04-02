@@ -2,3 +2,5 @@
 1. Used googleapis auth client.  
 2. Then make a call to compute.instance.get api call with request object.  
 3. Eventually it will return the comeplete details of instance, then get the metadata section/ket from the resultant JSON response.  
+4. Output is:  
+   ![plot](./Challenge_2.jpeg)
